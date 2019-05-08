@@ -1,0 +1,13 @@
+---
+title: Liverpool v.s. Barca
+author: G
+date: '2019-05-08'
+slug: liverpool-v-s-barca
+categories:
+  - R
+tags:
+  - football
+---
+# 欧冠半决赛第二轮 利物浦主场对阵巴萨
+巴萨输了，又被翻盘了，太惨了
+> 555

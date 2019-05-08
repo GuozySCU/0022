@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557217670358.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2708658527",
+    "id" : "795783D1",
+    "lastKnownWriteTime" : 1557246063,
+    "last_content_update" : 1557246063388,
+    "path" : "C:/R/GZY/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "18,21",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
